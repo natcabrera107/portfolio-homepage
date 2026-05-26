@@ -76,6 +76,10 @@ layout and interaction decisions.
 
 Public narrated demo video: `[Add video link here]`
 
+## Presentation Slides
+
+Google Slides presentation: `[Add Google Slides link here]`
+
 ## GenAI Disclosure
 
 I leveraged Cursor's Plan mode with the GPT-5.5 model to create an AI HTML generation plan,
