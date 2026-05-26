@@ -23,6 +23,17 @@ The site includes:
 - `design.md`: design document with project description, user personas, user stories, wireframes,
   and screenshots required by the assignment.
 
+## Creative Addition
+
+The creative addition in this homepage is **Naveen's Skill Lens** on `projects.html`. It is an
+original ES6 module interaction that lets visitors filter portfolio cards by skill signals such as
+AI, Backend, Java, Research, and Leadership.
+
+Instead of showing projects as a static list, the Skill Lens lets a visitor explore the same
+resume-backed work from different angles. When a filter is selected, matching project cards remain
+visible and the live status text updates to summarize the selected signal. This differentiates the
+portfolio while staying lightweight and understandable for a static HTML/CSS/JavaScript site.
+
 ## Screenshot
 
 ![Portfolio homepage screenshot](./docs/Application-Screenshot.jpeg)
