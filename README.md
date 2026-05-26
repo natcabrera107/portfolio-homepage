@@ -4,6 +4,8 @@ Author: Naveen Shankar
 
 Course: Web Development (CS 5610), MS CS at Northeastern University, Boston
 
+Public project page: <https://naveen-shankar-homepage.netlify.app/>
+
 Class link: <https://johnguerra.co/classes/webDevelopment_online_summer_2026/>
 
 ## Project Objective
