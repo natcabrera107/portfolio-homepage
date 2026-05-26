@@ -78,7 +78,7 @@ Public narrated demo video: `[Add video link here]`
 
 ## Presentation Slides
 
-Google Slides presentation: `[Add Google Slides link here]`
+Google Slides presentation: <https://docs.google.com/presentation/d/1fvehvyQ8QWax6T_exypQIwgGHlT26qdxoWiKdQhK-d4/edit?usp=sharing>
 
 ## GenAI Disclosure
 
