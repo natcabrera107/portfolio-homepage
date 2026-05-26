@@ -1,0 +1,149 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="29.6.3" pages="3">
+  <diagram id="home-wireframe" name="Home Page">
+    <mxGraphModel dx="2246" dy="1326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="home-frame" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=34;fillColor=#ffffff;strokeColor=#111827;fontStyle=1;fontSize=16;" value="Home Page Wireframe" vertex="1">
+          <mxGeometry height="1180" width="820" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="home-nav" parent="home-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3f4f6;strokeColor=#6b7280;fontSize=14;fontStyle=1;" value="Navbar: Naveen Shankar | Home | Projects | AI Brief" vertex="1">
+          <mxGeometry height="54" width="760" x="30" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="home-hero" parent="home-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#2563eb;fontSize=15;fontStyle=1;" value="Hero Section" vertex="1">
+          <mxGeometry height="245" width="760" x="30" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="home-hero-copy" parent="home-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#60a5fa;align=left;spacingLeft=14;fontSize=13;" value="Intro Copy&#xa;Location: Boston, MSCS at Northeastern&#xa;Headline: builds software for real workflows&#xa;Buttons: See My Work, Email Me" vertex="1">
+          <mxGeometry height="150" width="455" x="70" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="home-profile" parent="home-frame" style="ellipse;whiteSpace=wrap;html=1;fillColor=#eff6ff;strokeColor=#60a5fa;fontSize=13;" value="Profile Image&#xa;Caption: Software developer, AI and backend systems" vertex="1">
+          <mxGeometry height="150" width="170" x="575" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="home-impact" parent="home-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9fafb;strokeColor=#6b7280;fontSize=15;fontStyle=1;" value="Impact Highlights" vertex="1">
+          <mxGeometry height="170" width="760" x="30" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="home-stat-1" parent="home-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9ca3af;fontSize=13;fontStyle=1;" value="20+&#xa;Business workflows" vertex="1">
+          <mxGeometry height="80" width="220" x="60" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="home-stat-2" parent="home-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9ca3af;fontSize=13;fontStyle=1;" value="90%&#xa;Less manual scripting" vertex="1">
+          <mxGeometry height="60" width="180" x="330" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="home-stat-3" parent="home-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9ca3af;fontSize=13;fontStyle=1;" value="15k+&#xa;Monthly users helped" vertex="1">
+          <mxGeometry height="80" width="150" x="610" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="home-skills" parent="home-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef2ff;strokeColor=#4f46e5;fontSize=15;fontStyle=1;" value="Skills Section" vertex="1">
+          <mxGeometry height="220" width="760" x="30" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="home-skills-copy" parent="home-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#818cf8;align=left;spacingLeft=14;fontSize=13;" value="Section Copy&#xa;Backend engineering with an AI toolkit.&#xa;Short paragraph about Java services, RAG systems, data workflows, and tooling." vertex="1">
+          <mxGeometry height="105" width="280" x="60" y="685" as="geometry" />
+        </mxCell>
+        <mxCell id="home-skill-cloud" parent="home-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#818cf8;fontSize=13;" value="Skill Cloud&#xa;Java | Spring Boot | Python | LangChain | RAG | PostgreSQL | Kafka | Redis | Bootstrap | Docker | JUnit | PyTorch" vertex="1">
+          <mxGeometry height="85" width="280" x="490" y="705" as="geometry" />
+        </mxCell>
+        <mxCell id="home-contact" parent="home-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;fontSize=14;fontStyle=1;" value="Contact CTA&#xa;Interested in AI systems, backend engineering, or research collaboration?&#xa;Buttons: Email | GitHub | LinkedIn" vertex="1">
+          <mxGeometry height="145" width="760" x="30" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="home-footer" parent="home-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3f4f6;strokeColor=#6b7280;fontSize=13;" value="Footer: Copyright and build note" vertex="1">
+          <mxGeometry height="54" width="760" x="30" y="1075" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="projects-wireframe" name="Projects Page">
+    <mxGraphModel dx="2246" dy="1326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="projects-frame" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=34;fillColor=#ffffff;strokeColor=#111827;fontStyle=1;fontSize=16;" value="Projects Page Wireframe" vertex="1">
+          <mxGeometry height="1180" width="820" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="projects-nav" parent="projects-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3f4f6;strokeColor=#6b7280;fontSize=14;fontStyle=1;" value="Navbar: Naveen Shankar | Home | Projects | AI Brief" vertex="1">
+          <mxGeometry height="54" width="760" x="30" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="projects-hero" parent="projects-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#2563eb;fontSize=14;fontStyle=1;" value="Page Hero&#xa;Selected Work&#xa;A few things I&#39;ve built and shipped.&#xa;Short intro about work tied to systems, metrics, and engineering decisions." vertex="1">
+          <mxGeometry height="150" width="760" x="30" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="projects-skill-lens" parent="projects-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef2ff;strokeColor=#4f46e5;fontSize=15;fontStyle=1;" value="Original Component: Skill Lens" vertex="1">
+          <mxGeometry height="190" width="760" x="30" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="projects-lens-copy" parent="projects-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#818cf8;align=left;spacingLeft=14;fontSize=13;" value="Explanation&#xa;Choose a skill signal and the page reshapes around matching work." vertex="1">
+          <mxGeometry height="75" width="240" x="50" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="projects-filter-buttons" parent="projects-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#818cf8;fontSize=13;fontStyle=1;" value="Filter Buttons&#xa;All | AI | Backend | Java | Research | Leadership" vertex="1">
+          <mxGeometry height="60" width="400" x="360" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="projects-status" parent="projects-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#818cf8;fontSize=13;" value="Live Status Line&#xa;Skill lens showing every portfolio signal." vertex="1">
+          <mxGeometry height="40" width="400" x="360" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="projects-grid" parent="projects-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9fafb;strokeColor=#6b7280;fontSize=15;fontStyle=1;" value="Project Card Grid" vertex="1">
+          <mxGeometry height="420" width="760" x="30" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="projects-card-1" parent="projects-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9ca3af;fontSize=13;" value="Deep Research AI Agent&#xa;AI | Research | Backend" vertex="1">
+          <mxGeometry height="100" width="220" x="60" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="projects-card-2" parent="projects-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9ca3af;fontSize=13;" value="Calendar Events Application&#xa;Java | Backend" vertex="1">
+          <mxGeometry height="100" width="220" x="340" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="projects-card-3" parent="projects-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9ca3af;fontSize=13;" value="Audit Trail Compliance System&#xa;Compliance | Backend" vertex="1">
+          <mxGeometry height="100" width="150" x="610" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="projects-card-4" parent="projects-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9ca3af;fontSize=13;" value="SQL Script Generator&#xa;AI | Automation" vertex="1">
+          <mxGeometry height="100" width="220" x="60" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="projects-card-5" parent="projects-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9ca3af;fontSize=13;" value="Humanoid Robot Assistant&#xa;AI | Research | Java" vertex="1">
+          <mxGeometry height="100" width="220" x="340" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="projects-card-6" parent="projects-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9ca3af;fontSize=13;" value="Functional Coin Prototype&#xa;Leadership | Systems" vertex="1">
+          <mxGeometry height="100" width="150" x="610" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="projects-footer" parent="projects-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3f4f6;strokeColor=#6b7280;fontSize=13;" value="Footer: Copyright and build note" vertex="1">
+          <mxGeometry height="54" width="760" x="30" y="1030" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ai-wireframe" name="AI Brief Page">
+    <mxGraphModel dx="2246" dy="1326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ai-frame" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=34;fillColor=#ffffff;strokeColor=#111827;fontStyle=1;fontSize=16;" value="AI Brief Page Wireframe" vertex="1">
+          <mxGeometry height="1180" width="820" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ai-nav" parent="ai-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3f4f6;strokeColor=#6b7280;fontSize=14;fontStyle=1;" value="Navbar: Naveen Shankar | Home | Projects | AI Brief" vertex="1">
+          <mxGeometry height="54" width="760" x="30" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ai-hero" parent="ai-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#2563eb;fontSize=14;fontStyle=1;" value="Page Hero&#xa;AI-Generated Companion Page&#xa;Career brief generated from resume context" vertex="1">
+          <mxGeometry height="160" width="760" x="30" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ai-narrative-section" parent="ai-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9fafb;strokeColor=#6b7280;fontSize=15;fontStyle=1;" value="AI Career Narrative Section" vertex="1">
+          <mxGeometry height="270" width="760" x="30" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="ai-narrative-card" parent="ai-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9ca3af;align=left;spacingLeft=14;fontSize=13;" value="Main Narrative Card&#xa;A builder at the intersection of enterprise systems and applied AI.&#xa;Paragraphs summarize resume-driven career story." vertex="1">
+          <mxGeometry height="155" width="470" x="60" y="397.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ai-positioning-card" parent="ai-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9ca3af;fontSize=13;" value="Generated Positioning&#xa;Short bullet summary of AI, backend, workflow, and tools fit." vertex="1">
+          <mxGeometry height="155" width="190" x="570" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ai-signals" parent="ai-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef2ff;strokeColor=#4f46e5;fontSize=15;fontStyle=1;" value="Career Signal Cards" vertex="1">
+          <mxGeometry height="210" width="760" x="30" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="ai-signal-1" parent="ai-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#818cf8;fontSize=13;" value="Evidence of Scale&#xa;20+ workflows, 10k+ users, 15k+ monthly customers" vertex="1">
+          <mxGeometry height="90" width="220" x="50" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="ai-signal-2" parent="ai-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#818cf8;fontSize=13;" value="Engineering Range&#xa;Java services, AI tooling, Python automation, frontend workflows" vertex="1">
+          <mxGeometry height="90" width="220" x="310" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="ai-signal-3" parent="ai-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#818cf8;fontSize=13;" value="Leadership Potential&#xa;Mentoring and innovation awards in banking environment" vertex="1">
+          <mxGeometry height="90" width="150" x="580" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="ai-disclosure" parent="ai-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;fontSize=14;fontStyle=1;" value="Generative AI Disclosure" vertex="1">
+          <mxGeometry height="125" width="760" x="30" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="ai-footer" parent="ai-frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3f4f6;strokeColor=#6b7280;fontSize=13;" value="Footer: Copyright and build note" vertex="1">
+          <mxGeometry height="54" width="760" x="30" y="1070" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

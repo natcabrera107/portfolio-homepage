@@ -1,0 +1,1 @@
+npm install --save-dev @eslint/js@10.0.1 eslint@10.4.0 globals@17.6.0 prettier@3.8.3

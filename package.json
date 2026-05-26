@@ -1,0 +1,28 @@
+{
+  "name": "homepage",
+  "version": "1.0.0",
+  "description": "Static personal portfolio homepage for Naveen Shankar.",
+  "scripts": {
+    "format": "prettier --write \"*.{html,js,json,md}\" \"css/**/*.css\" \"js/**/*.js\" \"docs/**/*.md\"",
+    "format:check": "prettier --check \"*.{html,js,json,md}\" \"css/**/*.css\" \"js/**/*.js\" \"docs/**/*.md\"",
+    "lint": "eslint \"js/**/*.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naveen-1-1/homepage.git"
+  },
+  "keywords": [],
+  "author": "Naveen Shankar",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Naveen-1-1/homepage/issues"
+  },
+  "homepage": "https://github.com/Naveen-1-1/homepage#readme",
+  "devDependencies": {
+    "@eslint/js": "10.0.1",
+    "eslint": "10.4.0",
+    "globals": "17.6.0",
+    "prettier": "3.8.3"
+  }
+}

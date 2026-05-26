@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Naveen Shankar portfolio favicon</title>
+  <desc id="desc">Light teal and yellow square icon with the letters NS.</desc>
+  <defs>
+    <linearGradient id="markGradient" x1="8" x2="56" y1="8" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff8e7"/>
+      <stop offset="1" stop-color="#eefaf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#markGradient)"/>
+  <rect x="7" y="7" width="50" height="50" rx="13" fill="none" stroke="#0b7f75" stroke-width="4"/>
+  <circle cx="48" cy="16" r="7" fill="#f4b400"/>
+  <text
+    x="32"
+    y="39"
+    fill="#075c55"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="22"
+    font-weight="700"
+    text-anchor="middle"
+  >NS</text>
+</svg>
