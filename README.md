@@ -74,7 +74,7 @@ layout and interaction decisions.
 
 ## Demo Video
 
- Public narrated demo video: <https://youtu.be/yfeCoF24jng>
+Public narrated demo video: <https://youtu.be/yfeCoF24jng>
 
 ## Presentation Slides
 
