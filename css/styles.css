@@ -316,7 +316,7 @@ a:focus {
   .profile-frame figcaption {
     left: 0;
   }
-
+/* Maybe consider making a shared like base card such as .card-base so you dont have to repeat as much acorss multiple card types without duplicating */
   .info-card,
   .project-card,
   .impact-explorer,
