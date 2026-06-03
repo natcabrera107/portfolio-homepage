@@ -92,3 +92,25 @@ to create `ai.html`.
 ## License
 
 This project uses the MIT License. See `LICENSE` for details.
+
+## Code review - Nat Cabrera
+Honestly I looked through your whole project and I feel that you went above and beyond the rubric requirements, which made it hard to find any errors. 
+I feel like you really showcased your work here. I really like the layout as well as all the components such as the cards and buttons and the details about your skills.
+
+As for you css I like how you had primary color and then color ink acorss your design/pages. 
+
+js wise, I was not familiar with what noopener noreferrer meant, im a new DS align student but I looked it up and saw that its basically a security measure so the new link to a page cant be manipulated this is really cool, and was happy to learn about that. Also I saw in your js that you used "window.location.pathname.split("/").pop()" which seems to loop through all the links and then adds active and aria-current="page" as seen below. This was interesting I did not consider looping through links to add attributes very neat!
+
+const currentPage = window.location.pathname.split("/").pop() || "index.html";
+const navLinks = document.querySelectorAll(".nav-link");
+navLinks.forEach((link) => {
+  const linkPage = link.getAttribute("href")?.replace("./", "");
+  if (linkPage === currentPage) {
+    link.classList.add("active");
+    link.setAttribute("aria-current", "page");
+  }
+});
+
+Your html looked great I saw no problems honestly, i made one edit which was class name to h3 and tag as well for heirachy but doesnt even seem super necessary. Excellent work!
+
+
